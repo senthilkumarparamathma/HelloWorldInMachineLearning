@@ -11,14 +11,14 @@ Anaconda  Distributions
 Anaconda conveniently installs Python, Jupyter notebook and other commonly used packages for scientific computing and data science
 
 # Machine Learning Workflow
-Load Data
-Cleanup Data
-Mold Data
-Split Data – Training & Testing dataset
-Post Split Data Preparation   - Missing Value & Impute
-Train with Initial Algorithm – Build Training Model
-Predict – Testing data with Training Model
-Predict – Real world data with Training Model 
+Load Data ;
+Cleanup Data ;
+Mold Data ;
+Split Data – Training & Testing dataset ;
+Post Split Data Preparation   - Missing Value & Impute ;
+Train with Initial Algorithm – Build Training Model ;
+Predict – Testing data with Training Model ;
+Predict – Real world data with Training Model  ;
 
 
 
