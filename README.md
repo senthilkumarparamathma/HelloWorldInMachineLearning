@@ -1,9 +1,9 @@
 # HelloWorldInMachineLearning
-End to End small project in Machine learning using Python & Data Science libraries
+End to End small project in Machine learning using Python & Data Science libraries ;
 Predict with 70% or great accuracy which people are likely to develop diabetes Using Pima Indian Diabetes data
 
 # Software Tools 
-Python & Data science libraries (NumPy, Pandas, SciKit-Learn, Matplotlib)
+Python & Data science libraries (NumPy, Pandas, SciKit-Learn, Matplotlib);
 Jupyter Note book (IDE) – Open source interactive data science & scientific computing platform 
     Support 40 programming languages
 
