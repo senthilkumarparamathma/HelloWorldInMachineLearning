@@ -1,4 +1,4 @@
-# HelloWorldInMachineLearning
+# Hello World In Machine Learning
 End to End small project in Machine learning using Python & Data Science libraries ;
 Predict with 70% or great accuracy which people are likely to develop diabetes Using Pima Indian Diabetes data
 
